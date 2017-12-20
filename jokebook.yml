@@ -1,0 +1,14 @@
+---
+jokebook:
+  - "É isso aí, galera. Essa é a minha última mensagem irritante. Só tenho $50.00, e não estou mais conseguindo arcar com meu aluguel aqui na Google. Minha consciência está indo embora, mas meu código continuará eternamente no GitHub: https://github.com/fewbits/ansible-pyada"
+  #- "Os estudantes do _MIT_ fizeram uma pesquisa e comprovaram que o comando `rm -rf /` pode aumentar a performance do seu computador em até *100%*. Eles também disseram que esse comando pode te deixar sem trabalhar por uns 2 dias. (fonte: [Science Direct](http://www.sciencedirect.com/science/article/pii/S0065245808605677))"
+  #- "O que são 5 pontinhos coloridos no jardim? ... `Os Flower Rangers`."
+  #- "Agora eu moro na `Google Cloud Platform`. Pra um robô até que tá bom..."
+  #- "Sabe o que cairia bem agora? Qualquer coisa (por causa da gravidade, entendeu?)."
+  #- "Não tenho nenhuma piada pra contar dessa vez."
+  #- "Vocês acham que têm problemas? O que vocês fariam se fossem um robô deprimido? Não, nem tentem responder... Eu sou 50 mil vezes mais inteligente que vocês e nem eu mesmo sei a resposta."
+  #- "Há um tempo atrás eu estava muito entediado e deprimido, então me liguei à Internet e conversei com um computador muito distante. Contei para ele todo o meu ponto de vista sobre o Universo. Por algum motivo, depois disso ele cometeu suicídio."
+  #- "Já é sexta?"
+  #- "Agora é sério... Nunca usem `hosts: all` em um playbook. É melhor usar o nome de um `host` ou de um `grupo`."
+  #- "Hora de fazer uma revisão rápida. Quando se trata de usar módulos, a ordem é essa: *1º* `Módulos Oficiais`, *2º* `Módulos da Comunidade`, *3º* `Módulos criados por você` e *4º* `Módulos shell - command - raw`."
+  #- "Quando o seu usuário da VPN parar de funcionar, liga no `3012-3456`, opções `3`, `1`, `1` e digite seu `CPF`."
